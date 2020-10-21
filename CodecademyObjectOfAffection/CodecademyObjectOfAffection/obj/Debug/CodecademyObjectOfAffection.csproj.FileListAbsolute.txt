@@ -1,0 +1,7 @@
+C:\Users\Josh\source\repos\CodecademyObjectOfAffection\CodecademyObjectOfAffection\bin\Debug\CodecademyObjectOfAffection.exe.config
+C:\Users\Josh\source\repos\CodecademyObjectOfAffection\CodecademyObjectOfAffection\bin\Debug\CodecademyObjectOfAffection.exe
+C:\Users\Josh\source\repos\CodecademyObjectOfAffection\CodecademyObjectOfAffection\bin\Debug\CodecademyObjectOfAffection.pdb
+C:\Users\Josh\source\repos\CodecademyObjectOfAffection\CodecademyObjectOfAffection\obj\Debug\CodecademyObjectOfAffection.csprojAssemblyReference.cache
+C:\Users\Josh\source\repos\CodecademyObjectOfAffection\CodecademyObjectOfAffection\obj\Debug\CodecademyObjectOfAffection.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\CodecademyObjectOfAffection\CodecademyObjectOfAffection\obj\Debug\CodecademyObjectOfAffection.exe
+C:\Users\Josh\source\repos\CodecademyObjectOfAffection\CodecademyObjectOfAffection\obj\Debug\CodecademyObjectOfAffection.pdb
